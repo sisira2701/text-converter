@@ -1,3 +1,3 @@
 # text-converter
-data set: EMNIST
+data set: EMNIST,
 Algorithm: MLP
