@@ -1,3 +1,3 @@
-# text-converter
-data set: EMNIST,
-Algorithm: MLP
+# Letter Recognition  
+data set: EMNIST  
+Algorithm: CNN MODEL  
