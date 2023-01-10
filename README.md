@@ -1,7 +1,7 @@
 # Letter Recognition  
 data set: EMNIST  
 Algorithm (CNN MODEL): 
-"*" Convolution with padding
+* Convolution with padding
 "*" 2*2 max pooling
 "*" Convolution without padding
 "*" 2*2 max pooling
